@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">I am a passionate computer science graduate ; I enjoy solving the dilemmas facing me and strive to refine my skills . Eager to expand my critical thinking , management and technical skills through a job in a respectable company in order to help boosting the current condition of our nation .
+<h3 align="center">I am a passionate computer science graduate ; I enjoy solving the dilemmas facing me and strive to refine my skills . Eager to expand my critical thinking , management and technical skills through a job in a respectable company in order to help boosting the current condition of our nation .<br>
 My interests lie in Artificial Intelligence , Scientific Research and Software Development .
+</h3>
+
+<h3 align="center">
+، أَطْمَحُ بِنَهْضَةِ الأُمَّةِ ،
+<br>
+  , I aspire for the rise of the nation ,
+  
 </h3>
 
 ---
@@ -27,7 +34,7 @@ My interests lie in Artificial Intelligence , Scientific Research and Software D
 
 ---
 
-<h4 align="center">Connect with me:</h4>
+<h4 align="center">Connect with me :</h4>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/issamabdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IssamAbdoh" height="30" width="40" /></a>
