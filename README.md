@@ -30,7 +30,7 @@ My interests lie in Artificial Intelligence , Scientific Research and Software D
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IssamAbdoh&show_icons=true&locale=en&layout=compact" alt="IssamAbdoh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IssamAbdoh&show_icons=true&locale=en&layout=compact" alt="IssamAbdoh"/></p>
 
 ---
 
