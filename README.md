@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">I am a passionate computer science graduate ; I enjoy solving the dilemmas facing me and strive to refine my skills . Eager to expand my critical thinking , management and technical skills through a job in a respectable company in order to help boosting the current condition of our nation .<br>
-My interests lie in Artificial Intelligence , Scientific Research and Software Development .
+<h3 align="center">
+  Having studied computer science in college , I am deeply passionate about solving complex problems and continuously improving my skills . I am highly motivated to enhance my critical thinking , management , and technical abilities by pursuing a position in a reputable company . My goal is to contribute to the advancement of our nation through my expertise . <br>
+Artificial Intelligence , Scientific Research , and Software Development are among my areas of interest .
 </h3>
 
 <h3 align="center">
@@ -37,9 +38,13 @@ My interests lie in Artificial Intelligence , Scientific Research and Software D
 <h4 align="center">Connect with me :</h4>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/issamabdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IssamAbdoh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/issamabdoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IssamAbdoh" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  
 <a href="https://codeforces.com/profile/IzzyMercury" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="IzzyMercury" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="IzzyMercury" height="40" width="40" />
+</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/IzzyMercury/" target="blank">
+<img align="center" src="./codewars.svg" alt="IzzyMercury" height="40" width="40" />
 </a>
 </p>
 
